@@ -2,11 +2,8 @@
 
 import pathlib
 
-
 # == INFORMATIONS GÉNÉRALES ===================================================
 
-# Nom de l’exe généré
-EXE_NAME: str = "DreamTrad_patcheur_fr_AI_The_Somnium_Files.exe"
 # Nom de la fenêtre du logiciel
 NAME_WINDOW: str = "DreamTrad : Patcheur de AI - The Somnium Files"
 
